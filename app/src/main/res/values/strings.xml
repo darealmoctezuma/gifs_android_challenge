@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GIFs</string>
+    <string name="grid_search_hint">Search all the GIFs</string>
+    <string name="grid_search_gif">Search GIF</string>
+    <string name="grid_idle_search">Search for your favorite GIFs</string>
+    <string name="grid_error">An error occurred, please try later</string>
+</resources>
